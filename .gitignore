@@ -1,0 +1,15 @@
+# local .terraform dir
+.terraform/*
+
+# tf state files
+
+*.tfstate
+*.tfstate.*
+
+# tf variables, may inlcude sensitive date
+
+#*.tfvars  ' for now we will keep commented cos needs to push in the Repo.
+
+
+
+
